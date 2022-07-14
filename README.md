@@ -2,7 +2,7 @@
 
 * [Task 4 - Angular Tutorial] (#at)
 
-	* [Introduction] (#int)
+	* [Introduction](#int)
 	* [Project setup](#ps)
 
 # <a name="int">Introduction
