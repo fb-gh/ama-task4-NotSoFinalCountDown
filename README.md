@@ -71,7 +71,7 @@ and run the commands to configure and run the project (on npm command, if there'
  #### Step 5: Access the generated page
 
 You can now access the generated page on the address http://localhost:4200/
-You can use Visual Code to change the project, navigating to the project folder (<workfolder>\ama-task4-NotSoFinalCountDown) and running the command 
+You can use Visual Code to change the project, navigating to the project folder ( < workfolder > \ama-task4-NotSoFinalCountDown) and running the command 
 	
   
 	code .
